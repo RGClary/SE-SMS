@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ssms.se.seapp.Compose">
+
+    <item
+        android:id="@+id/value_one"
+        android:title="05:00" />
+
+    <item
+        android:id="@+id/value_two"
+        android:title="03:00" />
+
+    <item
+        android:id="@+id/value_three"
+        android:title="01:00" />
+
+    <item
+        android:id="@+id/value_four"
+        android:title="00:15" />
+
+</menu>

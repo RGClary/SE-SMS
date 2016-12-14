@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ssms.se.seapp.MessageList">
+    <item
+        android:id="@+id/action_compose"
+        android:orderInCategory="100"
+        android:title="@string/action_compose" />
+    <item
+        android:id="@+id/action_sign_out"
+        android:orderInCategory="100"
+        android:title="@string/action_sign_out" />
+</menu>
